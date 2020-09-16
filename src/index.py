@@ -49,4 +49,4 @@ async def hola(ctx):
 async def on_ready():
     print ('Es bot ya está listo')
 
-bot.run('NzU1ODQzMjQ1NDUxNTA5ODUx.X2JL4A.v8R6hPW4Z3YfxTKH-dH5F0nxZdk')
+bot.run('')
